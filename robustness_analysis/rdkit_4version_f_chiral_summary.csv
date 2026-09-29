@@ -1,0 +1,4 @@
+RDKit_version,reference_version,n_molecules,Pearson_r,MAE,Median_abs_difference,Maximum_abs_difference
+2024.3.1,2026.03.6,500,1.0,0.0,0.0,0.0
+2024.9.1,2026.03.6,500,1.0,0.0,0.0,0.0
+2025.3.1,2026.03.6,500,1.0,0.0,0.0,0.0
