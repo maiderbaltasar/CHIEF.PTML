@@ -1,0 +1,4 @@
+pair_type,n_pairs,percentage
+Train–train,981,69.52515946137491
+Test–test,130,9.213323883770377
+Train–test,300,21.261516654854713
